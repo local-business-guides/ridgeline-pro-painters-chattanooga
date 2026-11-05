@@ -23,6 +23,9 @@
 - [Affordable Painters Chattanooga Homeowners Can Call](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/affordable-painters-chattanooga/): Need affordable painters Chattanooga homeowners can plan around? Get a tailored project estimate in Chattanooga from Ridgeline Pro Painters. Call today.
 - [Interior Painters Near Me in Chattanooga](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/interior-painters-near-me/): Searching for interior painters near me in Chattanooga? Plan room, trim, or cabinet painting with Ridgeline Pro Painters. Call to request an estimate today.
 
+## Newsroom
+- [Ridgeline Pro Painters Shares Chattanooga Painting Guide in Four Formats](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/news/2026-11-05-ridgeline-pro-painters-shares-chattanooga-painting/): Ridgeline Pro Painters has released a Chattanooga painting guide as a website article, YouTube video, podcast episode and SoundCloud audio. (2026-11-05)
+
 ## Pages
 - [Chattanooga Painters in Tennessee](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/): Get careful interior and exterior painting from a local team serving Chattanooga homes and properties. Call +1423-779-2488.
 - [About Ridgeline Pro Painters](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/about/): About Ridgeline Pro Painters, Chattanooga.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/news/rss.xml)
 - [Main resource site](https://ridgeline-pro-painters-chattanooga.localbusinesses1.chatgpt.site)

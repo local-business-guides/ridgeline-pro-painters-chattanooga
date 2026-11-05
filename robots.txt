@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/sitemap.xml
+Sitemap: https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/news-sitemap.xml
