@@ -38,4 +38,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/ridgeline-pro-painters-chattanooga/news/rss.xml)
-- [Main resource site](https://ridgeline-pro-painters-chattanooga.localbusinesses1.chatgpt.site)
+- [Main resource site](https://ridgeline-pro-painters-chattanooga.localwebsites.chatgpt.site)
